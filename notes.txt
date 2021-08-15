@@ -1,0 +1,14 @@
+some global variables in nodes are as follows
+
+ __dirname
+    __filname
+    require
+    module
+    process 
+
+
+Completed modules ie 45 minutes  on 11 august
+
+completed path module ie 1 hour 11 minutes on 14 August
+
+completed 2 hours 3 minutes on 14 august
